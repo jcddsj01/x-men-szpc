@@ -13,3 +13,21 @@ Tecnologias Utilizadas:
 * TinyJPG e TinyPNG: O site utilizado é uma ferramenta online que comprime imagens JPEG e PNG sem perder muita qualidade. Ele reduz o tamanho dos arquivos de imagem usando algoritmos eficientes de compressão.
 
 Implantação do Projeto no GitHub Pages: [Explore o projeto clicando aqui.](https://jcddsj01.github.io/x-men-szpc/)
+
+---
+
+## X-Men Project - Week From Zero To Contract Programmer <br> Created based on YouTube Channel | Dev em Dobro
+
+The code creates a web page with a list of characters from the X-Men universe
+and displays information about the selected character.
+From this basic structure, you can add more functionality
+and style the page as needed.
+
+Technologies used:
+* HTML: Used to structure and define page content, including headings, paragraphs, lists and images.
+* CSS: Used to style the elements of the page, defining colors, sizes, fonts and layout, providing a visually appealing appearance.
+* JavaScript: Used to add interactivity to the page, allowing the user to select characters and display information dynamically.
+* Google Fonts: Used to access and apply custom fonts to page texts, improving stylization and readability.
+* TinyJPG and TinyPNG: The website used is an online tool that compresses JPEG and PNG images without losing much quality. It reduces the size of image files using efficient compression algorithms.
+
+Project deployment on GitHub Pages: [Explore the project by clicking here.](https://jcddsj01.github.io/x-men-szpc/)
