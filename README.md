@@ -1,4 +1,4 @@
-## Projeto X-Men - Semana do Zero Ao Programador Contratado <br> Feito com base no Canal do YouTube | Dev em Dobro
+## Projeto X-Men - Semana do Zero Ao Programador Contratado <br> Criado com base no Canal do YouTube | Dev em Dobro
 
 O código cria uma página web com uma lista de personagens do universo X-Men
 e exibe informações sobre o personagem selecionado.
