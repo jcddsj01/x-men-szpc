@@ -3,14 +3,14 @@
     --cor-azul-escuro: #0271f7;
     --cor-preto: #000;
     --cor-branco: #fff;
+    --fonte-principal: "Oxanium", cursive;
 }
 
 body {
-    font-family: "Oxanium", cursive;
+    font-family: var(--fonte-principal);
     background-color: var(--cor-preto);
     color: var(--cor-branco);
     margin-bottom: 50px;
-}
 
 body::before {
     content: "";
