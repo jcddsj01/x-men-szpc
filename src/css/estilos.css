@@ -11,6 +11,7 @@ body {
     background-color: var(--cor-preto);
     color: var(--cor-branco);
     margin-bottom: 50px;
+}
 
 body::before {
     content: "";
