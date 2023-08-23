@@ -1,4 +1,4 @@
-## Projeto X-Men <br> Semana do Zero Ao Programador Contratado <br> Criado com base no Canal do YouTube | [Dev em Dobro](https://www.youtube.com/@DevemDobro)
+## Projeto X-Men <br> Semana do Zero Ao Programador Contratado <br> Criado com base do Canal no YouTube | [Dev em Dobro](https://www.youtube.com/@DevemDobro)
 
 O código cria uma página web com uma lista de personagens do universo X-Men
 e exibe informações sobre o personagem selecionado.
@@ -17,7 +17,7 @@ Implantação do Projeto no GitHub Pages: [Explore o projeto clicando aqui.](htt
 
 ---
 
-## X-Men Project <br> Week From Zero To Contract Programmer <br> Created based on YouTube Channel | [Dev em Dobro](https://www.youtube.com/@DevemDobro)
+## X-Men Project <br> Week From Zero To Contract Programmer <br> Created on the basis of the YouTube channel | [Dev em Dobro](https://www.youtube.com/@DevemDobro)
 
 The code creates a web page with a list of characters from the X-Men universe
 and displays information about the selected character.
