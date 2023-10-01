@@ -6,7 +6,7 @@
   <img src="src/imagens/x-men-szpc.png" width="100%" />
 </div>
 
-## Projeto X-Men <br> Semana do Zero Ao Programador Contratado <br> Criado com base do Canal no YouTube | [Dev em Dobro](https://www.youtube.com/@DevemDobro)
+## Projeto - X-Men: Semana do Zero Ao Programador Contratado
 
 O código cria uma página web com uma lista de personagens do universo X-Men
 e exibe informações sobre o personagem selecionado.
@@ -21,11 +21,14 @@ Tecnologias Utilizadas:
 * [TinyJPG](https://tinyjpg.com/) e [TinyPNG:](https://tinypng.com/) O site utilizado é uma ferramenta online que comprime imagens JPEG e PNG sem perder muita qualidade. Ele reduz o tamanho dos arquivos de imagem usando algoritmos eficientes de compressão.
 * [GitHub Pages:](https://pages.github.com/): Plataforma de hospedagem gratuita para projetos estáticos, permitindo que o site seja acessível na web.
 
+Créditos:
+* Criado com base do Canal no YouTube | [Dev em Dobro](https://www.youtube.com/@DevemDobro)
+
 Implantação do Projeto no GitHub Pages: [Explore o projeto clicando aqui.](https://jcddsj01.github.io/x-men-szpc/)
 
 ---
 
-## X-Men Project <br> Week From Zero To Contract Programmer <br> Created on the basis of the YouTube channel | [Dev em Dobro](https://www.youtube.com/@DevemDobro)
+## X-Men - Project: Week From Zero To Contract Programmer
 
 The code creates a web page with a list of characters from the X-Men universe
 and displays information about the selected character.
@@ -39,5 +42,8 @@ Technologies used:
 * [Google Fonts:](https://fonts.google.com/) Used to access and apply custom fonts to page texts, improving stylization and readability.
 * [TinyJPG](https://tinyjpg.com/) e [TinyPNG:](https://tinypng.com/) The website used is an online tool that compresses JPEG and PNG images without losing much quality. It reduces the size of image files using efficient compression algorithms.
 * [GitHub Pages:](https://pages.github.com/): Free hosting platform for static projects, allowing the website to be accessible on the web.
+
+Credits:
+* Created on the basis of the YouTube channel | [Dev em Dobro](https://www.youtube.com/@DevemDobro)
 
 Project deployment on GitHub Pages: [Explore the project by clicking here.](https://jcddsj01.github.io/x-men-szpc/)
