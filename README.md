@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="assets/" width="100%" />
+  <img src="src/img/projetos/x-men-szpc" width="100%" />
 </div>
 
 ## Projeto X-Men <br> Semana do Zero Ao Programador Contratado <br> Criado com base do Canal no YouTube | [Dev em Dobro](https://www.youtube.com/@DevemDobro)
