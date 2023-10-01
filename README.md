@@ -19,7 +19,7 @@ Tecnologias Utilizadas:
 * [JavaScript:](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) Utilizado para adicionar interatividade à página, permitindo que o usuário selecione personagens e exiba informações dinamicamente.
 * [Google Fonts:](https://fonts.google.com/) Utilizado para acessar e aplicar fontes personalizadas aos textos da página, melhorando a estilização e a legibilidade.
 * [TinyJPG](https://tinyjpg.com/) e [TinyPNG:](https://tinypng.com/) O site utilizado é uma ferramenta online que comprime imagens JPEG e PNG sem perder muita qualidade. Ele reduz o tamanho dos arquivos de imagem usando algoritmos eficientes de compressão.
-* [GitHub Pages:](https://pages.github.com/): Plataforma de hospedagem gratuita para projetos estáticos, permitindo que o site seja acessível na web.
+* [GitHub Pages:](https://pages.github.com/) Plataforma de hospedagem gratuita para projetos estáticos, permitindo que o site seja acessível na web.
 
 Créditos:
 * Criado com base do Canal no YouTube | [Dev em Dobro](https://www.youtube.com/@DevemDobro)
@@ -41,7 +41,7 @@ Technologies used:
 * [JavaScript:](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) Used to add interactivity to the page, allowing the user to select characters and display information dynamically.
 * [Google Fonts:](https://fonts.google.com/) Used to access and apply custom fonts to page texts, improving stylization and readability.
 * [TinyJPG](https://tinyjpg.com/) e [TinyPNG:](https://tinypng.com/) The website used is an online tool that compresses JPEG and PNG images without losing much quality. It reduces the size of image files using efficient compression algorithms.
-* [GitHub Pages:](https://pages.github.com/): Free hosting platform for static projects, allowing the website to be accessible on the web.
+* [GitHub Pages:](https://pages.github.com/) Free hosting platform for static projects, allowing the website to be accessible on the web.
 
 Credits:
 * Created on the basis of the YouTube channel | [Dev em Dobro](https://www.youtube.com/@DevemDobro)
